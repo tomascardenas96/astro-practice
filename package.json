@@ -1,0 +1,17 @@
+{
+  "name": "awesome-aurora",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^4.12.2",
+    "astro-icon": "^1.1.0",
+    "react-icons": "^5.2.1"
+  }
+}
